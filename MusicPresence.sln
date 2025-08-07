@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPresence", "MusicPresence\MusicPresence.csproj", "{9CAFB89D-10DE-4A06-B065-DF38735BC6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPresence.Test", "MusicPresence.Test\MusicPresence.Test.csproj", "{CEB324A1-0B2F-436B-B2D9-FC8252C5A0B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPresence.Windows", "MusicPresence.Windows\MusicPresence.Windows.csproj", "{D90E5505-84A4-4EE2-9367-2D2C94D7CDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CAFB89D-10DE-4A06-B065-DF38735BC6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CAFB89D-10DE-4A06-B065-DF38735BC6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CAFB89D-10DE-4A06-B065-DF38735BC6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CAFB89D-10DE-4A06-B065-DF38735BC6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB324A1-0B2F-436B-B2D9-FC8252C5A0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB324A1-0B2F-436B-B2D9-FC8252C5A0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB324A1-0B2F-436B-B2D9-FC8252C5A0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB324A1-0B2F-436B-B2D9-FC8252C5A0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90E5505-84A4-4EE2-9367-2D2C94D7CDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90E5505-84A4-4EE2-9367-2D2C94D7CDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90E5505-84A4-4EE2-9367-2D2C94D7CDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90E5505-84A4-4EE2-9367-2D2C94D7CDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

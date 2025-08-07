@@ -1,0 +1,1 @@
+﻿namespace MusicPresence.Errors; public class MusicNotInitializedException : Exception;

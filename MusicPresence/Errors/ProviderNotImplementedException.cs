@@ -1,0 +1,1 @@
+﻿namespace MusicPresence.Errors; public class ProviderNotImplementedException(string? s) : Exception(s);

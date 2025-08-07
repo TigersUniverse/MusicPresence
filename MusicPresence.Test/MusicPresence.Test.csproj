@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFrameworks>netstandard2.1;net481;net8.0-windows10.0.22000.0</TargetFrameworks>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>12</LangVersion>
+        <OutputType>Exe</OutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\MusicPresence.Windows\MusicPresence.Windows.csproj" />
+      <ProjectReference Include="..\MusicPresence\MusicPresence.csproj" />
+    </ItemGroup>
+
+</Project>
