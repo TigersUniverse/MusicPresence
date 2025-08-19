@@ -29,7 +29,7 @@ MusicInitializationStatus status = music.Initialize();
 switch(status)
 {
     case MusicInitializationStatus.NOT_AUTHORIZED:
-        throw new Exception("Failed to authenticate!")
+        throw new Exception("Failed to authenticate!");
     default:
         // success!
         break;
@@ -56,7 +56,7 @@ Task.Factory.StartNew(async () => {
         // Wait for 1 second before updating again
         Thread.Sleep(1000);
     }
-})
+});
 // To stop the loop, simply do cts.Cancel()
 ```
 
